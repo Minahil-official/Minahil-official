@@ -2,10 +2,7 @@
 
 
 
-<img align="center" alt="Minahil Nawaz"  height="500" width="500" src="https://media.licdn.com/dms/image/v2/D4D03AQEKXZUbUIJipQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729888412722?e=1744848000&v=beta&t=lpRLtGLpdtFKpygFaXxEpYCTMDh3bagprP0PBZj4CPk"/>
-
-
-
+<img align="right" alt="Programming Communities" width="868" height="500" src="https://github.com/user-attachments/assets/fc66202d-16f7-479e-8c4c-786e4c5aaebf">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minahil-official&label=Profile%20views&color=0e75b6&style=flat" alt="minahil-official" /> </p>
