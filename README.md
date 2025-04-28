@@ -5,7 +5,6 @@
 <img align="right" alt="Programming Communities" width="868" height="500" src="https://github.com/user-attachments/assets/fc66202d-16f7-479e-8c4c-786e4c5aaebf">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minahil-official&label=Profile%20views&color=0e75b6&style=flat" alt="minahil-official" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minahil-official" alt="minahil-official" /></a> </p>
 
